@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, I am Ismatul Islam Pranto!
+### Hi there 👋, I am Ismatul Islam Pranto!
 #### MERN Stack Developer
 ![MERN Stack Developer](https://github.com/prantokhaan/pranto-khan/blob/main/mern.jpg)
 
